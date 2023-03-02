@@ -7,3 +7,4 @@ function sum(){
     console.log("result is:",c)
 }
 sum()
+
